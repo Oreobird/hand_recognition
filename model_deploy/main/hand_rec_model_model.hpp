@@ -1,5 +1,4 @@
 /**
-* Copyright © Vesync Technologies Co.Ltd. 2023. All rights reserved.
 * @file    model_define.hpp
 * @brief   esp-dl model define header file.
 * @date    2024-01-08
